@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkunishop_web=self.webpackChunkunishop_web||[]).push([[390],{96390:function(c,e,t){t.r(e),t.d(e,{default:function(){return a}});var o=t(68827),l=t(67294),s=t(61204),O=t(85893);function a(){var n=(0,o.c)(2),E=(0,s.useOutletContext)(),u;return n[0]!==E?(u=(0,O.jsx)(s.Outlet,{context:E}),n[0]=E,n[1]=u):u=n[1],u}}}]);
